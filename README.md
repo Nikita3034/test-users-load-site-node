@@ -1,1 +1,3 @@
-# test-users-load-site-node
+## Start script
+
+`k6 run --vus 10 --duration 30s script.js`
