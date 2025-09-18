@@ -23,5 +23,5 @@ export const options = {
 };
 
 export default function () {
-	http.get(''); // add your url
+	http.get(''); // set url
 }
